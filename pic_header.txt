@@ -1,0 +1,1 @@
+; vim: set syntax=pic ts=4 sts=4 sw=4: –x–ì ç Last Change:2012/06/18 13:42:58.
